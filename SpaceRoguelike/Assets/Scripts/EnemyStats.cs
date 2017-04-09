@@ -21,7 +21,7 @@ public class EnemyStats : MonoBehaviour
 	private EnemyStats()
 	{
 		aggressionMin [0] = 75; // aggressive
-		aggressionMax [0] = 100;
+		aggressionMax [0] = 99;
 		aggressionMin [1] = 25; // accurate
 		aggressionMax [1] = 75;
 		aggressionMin [2] = 10; // defensive
